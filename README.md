@@ -50,22 +50,30 @@ terraform-aws-modules/vpc/aws	   >=5.5.2
              
 
                                        EKS-OUTPUTS.TF
-    output	   Describeiption
+    output	   Describeiption<img width="1440" alt="Screenshot 2024-03-13 at 22 25 17" src="https://github.com/obamstracon/capstone-project/assets/134118317/da994d6f-8126-40f2-b185-9b6c8b7b955e">
+
 cluster_id	
        
-                                  
+                                  <img width="1440" alt="Screenshot 2024-03-13 at 20 11 43" src="https://github.com/obamstracon/capstone-project/assets/134118317/f2cd914b-8650-46d5-85e6-fc6437613ff6">
+<img width="1440" alt="Screenshot 2024-03-13 at 21 34 29" src="https://github.com/obamstracon/capstone-project/assets/134118317/91760103-de95-455f-9bb2-10ba27990642">
+
 ￼
       
+<img width="1440" alt="Screenshot 2024-03-06 at 21 25 18" src="https://github.com/obamstracon/capstone-project/assets/134118317/ec6f6b57-4f3e-40bc-974e-2e96ba7373e9">
 
 ￼
 
+<img width="1440" alt="Screenshot 2024-03-12 at 20 14 38" src="https://github.com/obamstracon/capstone-project/assets/134118317/4380940e-758f-40fe-a00e-6faeb48a13bc">
 
 ￼
 
+<img width="1440" alt="Screenshot 2024-03-13 at 20 33 01" src="https://github.com/obamstracon/capstone-project/assets/134118317/37d379da-abd9-4a04-8759-11830a82cdae">
 
+<img width="1440" alt="Screenshot 2024-03-13 at 20 21 16" src="https://github.com/obamstracon/capstone-project/assets/134118317/0e537f4d-8072-46fa-8c4e-c78fc5fedb14">
 
 ￼
-     
+     <img width="1440" alt="Screenshot 2024-03-14 at 04 07 53" src="https://github.com/obamstracon/capstone-project/assets/134118317/35a214fc-49ef-45c6-b934-3ff8efee5682">
+
 
 
 
