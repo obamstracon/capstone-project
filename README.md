@@ -1,4 +1,4 @@
-# capstone-projectDOCUMENTATION  
+# capstone-project                  DOCUMENTATION  
 
                    CAPSTONE PROJECT
 
